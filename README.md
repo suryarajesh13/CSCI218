@@ -1,6 +1,6 @@
 # CSCI218 Group 12
 
-Project: Airplance Model Recognition
+Project: Commerical Airplane Recognition
 
 Members:
 -Dawn
